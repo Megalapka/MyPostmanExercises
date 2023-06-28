@@ -1,3 +1,3 @@
 # Postman
 
-My Postman jsons with exercises
+My Postman's jsons with exercises
